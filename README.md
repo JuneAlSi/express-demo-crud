@@ -1,2 +1,2 @@
 # express-demo-crud
-An simple example how implement restful api in expressjs
+A simple example how implement restful api in expressjs
